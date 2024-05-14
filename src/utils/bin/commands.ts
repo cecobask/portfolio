@@ -91,7 +91,7 @@ export const summary = (args?: string[]): string => {
 ABOUT
 ――――――――――――
  ${config.name}
- Waterford, Ireland
+ Dundalk, Ireland
  Sofia, Bulgaria
 󰈙 <u><a href="${config.cv_url}" target="_blank">Curriculum Vitae</a></u>
 
